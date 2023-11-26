@@ -1,6 +1,6 @@
 # Terceira-Avaliacao-Banco-De-Dados
 
-##PEDIDO:
+## PEDIDO:
 
 Crie a estrutura abaixo e implemente os objetos em banco de Dados:
 
